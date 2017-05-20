@@ -65,7 +65,7 @@ gem 'simple_form'
 gem 'humanize_boolean'
 # bootstrap関連
 # twitter-bootstrap-railsはlessを使うので必要
-gem 'libv8', '3.16.14.13'
+gem 'libv8', '3.16.14.19'
 gem 'therubyracer', '0.12.2'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'

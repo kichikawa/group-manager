@@ -125,7 +125,7 @@ GEM
       less (~> 2.6.0)
       sprockets (> 2, < 4)
       tilt
-    libv8 (3.16.14.13)
+    libv8 (3.16.14.19)
     loofah (2.0.1)
       nokogiri (>= 1.5.9)
     mail (2.6.3)
@@ -267,7 +267,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   less-rails
-  libv8 (= 3.16.14.13)
+  libv8 (= 3.16.14.19)
   newrelic_rpm
   pdfkit
   pg
@@ -290,4 +290,8 @@ DEPENDENCIES
   wkhtmltopdf
 
 BUNDLED WITH
+<<<<<<< Updated upstream
    1.12.5
+=======
+   1.14.6
+>>>>>>> Stashed changes
